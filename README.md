@@ -1,2 +1,0 @@
-# Codiego
- codigodeprogramacion
